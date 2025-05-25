@@ -24,6 +24,3 @@ class Main {
 fun main() {
     Main().start()
 }
-
-
-
